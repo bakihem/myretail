@@ -14,7 +14,7 @@ Build an application that performs the following actions:
 
 ## Local Setup
 
-- Clone project from git link in any preferred IDE (Intellij or Eclipse)
+- Clone project from git link "https://github.com/bakihem/myretail" in any preferred IDE (Intellij or Eclipse)
 - Install Maven and Java to test the Api
 - Install MongoDb for database
 - Install postman tool to test the rest api endpoint
